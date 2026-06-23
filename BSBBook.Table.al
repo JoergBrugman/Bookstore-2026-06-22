@@ -1,5 +1,8 @@
 namespace GetUse.Academy.Bookstore;
 
+/// <summary>
+/// Table to store Books
+/// </summary>
 table 50100 "BSB Book"
 {
     Caption = 'Book';
