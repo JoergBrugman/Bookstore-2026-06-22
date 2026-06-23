@@ -1,0 +1,4 @@
+*.app
+.altestrunner
+.vscode/rad.json
+.vscode/.alcache
