@@ -1,5 +1,6 @@
 namespace GetUse.Academy.Bookstore.Customer;
 using Microsoft.Sales.Customer;
+using GetUse.Academy.Bookstore;
 
 pageextension 50101 "BSB Customer Card" extends "Customer Card"
 {
@@ -19,6 +20,14 @@ pageextension 50101 "BSB Customer Card" extends "Customer Card"
                 {
                     ApplicationArea = All;
                 }
+            }
+        }
+        addafter(Control149)
+        {
+            part(BSBBookFactbox; "BSB Book Factbox")
+            {
+                ApplicationArea = All;
+                SubPageLink = "No." = field("BSB Favorite Book No.");
             }
         }
     }

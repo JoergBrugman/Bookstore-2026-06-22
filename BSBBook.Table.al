@@ -159,4 +159,25 @@ table 50100 "BSB Book"
         error(BookBlockedErr, BSBBook.TableCaption, BSBBook."No.");
     end;
 
+    procedure ShowCard()
+    begin
+        if Rec."No." = '' then
+            exit;
+        ShowCard(Rec);
+    end;
+
+    procedure ShowCard(BookNo: Code[20])
+    var
+        BSBBook: Record "BSB Book";
+    begin
+        if not BSBBook.Get(BookNo) then
+            exit;
+        ShowCard(BSBBook);
+    end;
+
+    local procedure ShowCard(BSBBook: Record "BSB Book")
+    begin
+        Page.RunModal(Page::"BSB Book Card", BSBBook);
+    end;
+
 }
