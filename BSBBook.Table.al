@@ -112,7 +112,13 @@ table 50100 "BSB Book"
         OnDeleteBookErr: Label 'A %1 cannot be deleted', Comment = 'de-DE=Ein %1 kann nicht gelöscht werden';
 
     trigger OnDelete()
+    var
+        IsHandled: Boolean;
     begin
+        OnBeforeOnDelete(Rec, IsHandled);
+        if IsHandled then
+            exit;
+
         Error(OnDeleteBookErr, TableCaption);
     end;
 
@@ -178,6 +184,11 @@ table 50100 "BSB Book"
     local procedure ShowCard(BSBBook: Record "BSB Book")
     begin
         Page.RunModal(Page::"BSB Book Card", BSBBook);
+    end;
+
+    [IntegrationEvent(false, false)]
+    local procedure OnBeforeOnDelete(var Rec: Record "BSB Book"; var IsHandled: Boolean)
+    begin
     end;
 
 }
