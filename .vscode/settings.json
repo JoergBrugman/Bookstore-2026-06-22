@@ -12,5 +12,7 @@
     "CRS.ObjectNamePrefix": "BSB ",
     "CRS.RemovePrefixFromFilename": false,
     "editor.mouseWheelZoom": true,
-    "editor.snippetSuggestions": "bottom"
+    "editor.snippetSuggestions": "bottom",
+    "xliffSync.parseFromDeveloperNote": true,
+    "xliffSync.parseFromDeveloperNoteOverwrite": true
 }
