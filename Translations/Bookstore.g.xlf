@@ -238,6 +238,41 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page BSB Company Information Wizard - Action ActionNext - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Table 3073577260 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Internal Log</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BSB Internal Log - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3073577260 - Field 2790486453 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Comment</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BSB Internal Log - Field Comment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3073577260 - Field 3133801257 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Company</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BSB Internal Log - Field Company - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3073577260 - Field 1249475212 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Created</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BSB Internal Log - Field Created - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3073577260 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BSB Internal Log - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3073577260 - Field 3268270228 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dummy</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BSB Internal Log - Field Dummy - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3073577260 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BSB Internal Log - Field Entry No. - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Table 3249233238 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Book</source>
           <note from="Developer" annotates="general" priority="2"></note>
