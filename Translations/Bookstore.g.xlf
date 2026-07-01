@@ -48,6 +48,26 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Profile BSB Bookstore - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Codeunit 607005014 - NamedType 966437978" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Edit Customer</source>
+          <note from="Developer" annotates="general" priority="2">de-DE=Debitor bearbeiten</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit BSB Notif. Subscriber Store - NamedType CreditLimitNotifActionEditCustomerLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 607005014 - NamedType 696338853" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 %2 of %3 %4 %5 is lager than %6</source>
+          <note from="Developer" annotates="general" priority="2">de-DE=%1 %2 von %3 %4 %5 übersteigt %6</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit BSB Notif. Subscriber Store - NamedType CreditLimitNotifMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 607005014 - NamedType 1846691345" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer balance exceeds credit limit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit BSB Notif. Subscriber Store - NamedType CredLimitNotifTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 607005014 - NamedType 1482905151" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Balance of customer is lager than the given cedit limit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit BSB Notif. Subscriber Store - NamedType CredLinitNotifDescTxt</note>
+        </trans-unit>
         <trans-unit id="Codeunit 4266663845 - Method 4183682721 - NamedType 4073702997" size-unit="char" translate="yes" xml:space="preserve">
           <source>Company Information Setup</source>
           <note from="Developer" annotates="general" priority="2">de-DE=Firmendaten einrichten</note>

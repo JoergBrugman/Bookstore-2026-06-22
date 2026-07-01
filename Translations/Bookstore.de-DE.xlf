@@ -57,6 +57,108 @@
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Profile BSB Bookstore - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Codeunit 607005014 - NamedType 966437978" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Edit Customer</source>
+          <target state="translated">Debitor bearbeiten</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=Debitor bearbeiten</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit BSB Notif. Subscriber Store - NamedType CreditLimitNotifActionEditCustomerLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 607005014 - NamedType 696338853" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 %2 of %3 %4 %5 is lager than %6</source>
+          <target state="translated">%1 %2 von %3 %4 %5 übersteigt %6</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=%1 %2 von %3 %4 %5 übersteigt %6</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit BSB Notif. Subscriber Store - NamedType CreditLimitNotifMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4266663845 - Method 4183682721 - NamedType 4073702997" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Company Information Setup</source>
+          <target state="translated">Firmendaten einrichten</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=Firmendaten einrichten</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit BSB Company Info. Wizard Meth - Method AddExtensionAssistedSetup_OnRegisterAssistedSetup - NamedType WizardTitleTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4266663845 - Method 4183682721 - NamedType 1608306038" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Provide the Name and E-Mail of your Compamny.</source>
+          <target state="translated">Richten Sie den Name und die E-Mailadresse Ihres Unternehmens ein.</target>
+          <note from="Developer" annotates="general" priority="2">de-DE=Richten Sie den Name und die E-Mailadresse Ihres Unternehmens ein.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit BSB Company Info. Wizard Meth - Method AddExtensionAssistedSetup_OnRegisterAssistedSetup - NamedType WizardDescTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4266663845 - Method 1858114840 - NamedType 254384817" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This setup is already done. Do you want to open the setup page instead?</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit BSB Company Info. Wizard Meth - Method OnReRunOfCompletedSetup - NamedType SetupAlreadyDoneQst</note>
+        </trans-unit>
+        <trans-unit id="Page 2740159589 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Company Information</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BSB Company Information Wizard - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2740159589 - Control 552006252 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Please provide the name of your company.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BSB Company Information Wizard - Control CompanyName - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 2740159589 - Control 552006252 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Company Name</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BSB Company Information Wizard - Control CompanyName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2740159589 - Control 2961552353 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the company's name and corporate form. For example, Inc. or Ltd.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BSB Company Information Wizard - Control Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2740159589 - Control 1067670101 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Please provide the E-Mail of yor company.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BSB Company Information Wizard - Control CompanyEmail - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 2740159589 - Control 1067670101 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Company E-Mail</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BSB Company Information Wizard - Control CompanyEmail - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2740159589 - Control 1541011875 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the company's email address.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BSB Company Information Wizard - Control E-Mail - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2740159589 - Control 3189484627 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Thank you! To save this setup, choose finish.</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BSB Company Information Wizard - Control AllDone - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 2740159589 - Control 3189484627 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>All Done</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BSB Company Information Wizard - Control AllDone - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2740159589 - Action 2438272767 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Back</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BSB Company Information Wizard - Action ActionBack - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2740159589 - Action 3259912055 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Finish</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BSB Company Information Wizard - Action ActionFinish - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2740159589 - Action 914282563 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Next</source>
+          <target state="needs-translation"/>
+          <note from="Developer" annotates="general" priority="2"/>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BSB Company Information Wizard - Action ActionNext - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Table 3249233238 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Book</source>
           <target state="needs-translation"/>
@@ -375,101 +477,11 @@
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Enum BSB Book Type - EnumValue Paperback - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Codeunit 4266663845 - Method 4183682721 - NamedType 4073702997" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Company Information Setup</source>
-          <target state="translated">Firmendaten einrichten</target>
-          <note from="Developer" annotates="general" priority="2">de-DE=Firmendaten einrichten</note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit BSB Company Info. Wizard Meth - Method AddExtensionAssistedSetup_OnRegisterAssistedSetup - NamedType WizardTitleTxt</note>
-        </trans-unit>
-        <trans-unit id="Codeunit 4266663845 - Method 4183682721 - NamedType 1608306038" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Provide the Name and E-Mail of your Compamny.</source>
-          <target state="translated">Richten Sie den Name und die E-Mailadresse Ihres Unternehmens ein.</target>
-          <note from="Developer" annotates="general" priority="2">de-DE=Richten Sie den Name und die E-Mailadresse Ihres Unternehmens ein.</note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit BSB Company Info. Wizard Meth - Method AddExtensionAssistedSetup_OnRegisterAssistedSetup - NamedType WizardDescTxt</note>
-        </trans-unit>
-        <trans-unit id="Codeunit 4266663845 - Method 1858114840 - NamedType 254384817" size-unit="char" translate="yes" xml:space="preserve">
-          <source>This setup is already done. Do you want to open the setup page instead?</source>
-          <target state="needs-translation"/>
-          <note from="Developer" annotates="general" priority="2"/>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit BSB Company Info. Wizard Meth - Method OnReRunOfCompletedSetup - NamedType SetupAlreadyDoneQst</note>
-        </trans-unit>
         <trans-unit id="Page 1869352431 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Map</source>
           <target state="needs-translation"/>
           <note from="Developer" annotates="general" priority="2"/>
           <note from="Xliff Generator" annotates="general" priority="3">Page BSB BingMapsCardPart - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Page 2740159589 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Company Information</source>
-          <target state="needs-translation"/>
-          <note from="Developer" annotates="general" priority="2"/>
-          <note from="Xliff Generator" annotates="general" priority="3">Page BSB Company Information Wizard - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Page 2740159589 - Control 552006252 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Please provide the name of your company.</source>
-          <target state="needs-translation"/>
-          <note from="Developer" annotates="general" priority="2"/>
-          <note from="Xliff Generator" annotates="general" priority="3">Page BSB Company Information Wizard - Control CompanyName - Property InstructionalText</note>
-        </trans-unit>
-        <trans-unit id="Page 2740159589 - Control 552006252 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Company Name</source>
-          <target state="needs-translation"/>
-          <note from="Developer" annotates="general" priority="2"/>
-          <note from="Xliff Generator" annotates="general" priority="3">Page BSB Company Information Wizard - Control CompanyName - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Page 2740159589 - Control 2961552353 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the company's name and corporate form. For example, Inc. or Ltd.</source>
-          <target state="needs-translation"/>
-          <note from="Developer" annotates="general" priority="2"/>
-          <note from="Xliff Generator" annotates="general" priority="3">Page BSB Company Information Wizard - Control Name - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Page 2740159589 - Control 1067670101 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Please provide the E-Mail of yor company.</source>
-          <target state="needs-translation"/>
-          <note from="Developer" annotates="general" priority="2"/>
-          <note from="Xliff Generator" annotates="general" priority="3">Page BSB Company Information Wizard - Control CompanyEmail - Property InstructionalText</note>
-        </trans-unit>
-        <trans-unit id="Page 2740159589 - Control 1067670101 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Company E-Mail</source>
-          <target state="needs-translation"/>
-          <note from="Developer" annotates="general" priority="2"/>
-          <note from="Xliff Generator" annotates="general" priority="3">Page BSB Company Information Wizard - Control CompanyEmail - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Page 2740159589 - Control 1541011875 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies the company's email address.</source>
-          <target state="needs-translation"/>
-          <note from="Developer" annotates="general" priority="2"/>
-          <note from="Xliff Generator" annotates="general" priority="3">Page BSB Company Information Wizard - Control E-Mail - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Page 2740159589 - Control 3189484627 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Thank you! To save this setup, choose finish.</source>
-          <target state="needs-translation"/>
-          <note from="Developer" annotates="general" priority="2"/>
-          <note from="Xliff Generator" annotates="general" priority="3">Page BSB Company Information Wizard - Control AllDone - Property InstructionalText</note>
-        </trans-unit>
-        <trans-unit id="Page 2740159589 - Control 3189484627 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>All Done</source>
-          <target state="needs-translation"/>
-          <note from="Developer" annotates="general" priority="2"/>
-          <note from="Xliff Generator" annotates="general" priority="3">Page BSB Company Information Wizard - Control AllDone - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Page 2740159589 - Action 2438272767 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Back</source>
-          <target state="needs-translation"/>
-          <note from="Developer" annotates="general" priority="2"/>
-          <note from="Xliff Generator" annotates="general" priority="3">Page BSB Company Information Wizard - Action ActionBack - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Page 2740159589 - Action 3259912055 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Finish</source>
-          <target state="needs-translation"/>
-          <note from="Developer" annotates="general" priority="2"/>
-          <note from="Xliff Generator" annotates="general" priority="3">Page BSB Company Information Wizard - Action ActionFinish - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Page 2740159589 - Action 914282563 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Next</source>
-          <target state="needs-translation"/>
-          <note from="Developer" annotates="general" priority="2"/>
-          <note from="Xliff Generator" annotates="general" priority="3">Page BSB Company Information Wizard - Action ActionNext - Property Caption</note>
         </trans-unit>
       </group>
     </body>
